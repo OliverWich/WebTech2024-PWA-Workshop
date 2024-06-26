@@ -7,6 +7,7 @@ const staticCache = 'static-cache-v' + cacheVersion
 // Hier werden die Dateien definiert, die gecached werden sollen.
 // Achtung: Es müssen valide URLs sein, relativ zur start_url oder absolute URLs.
 const staticFilesToCache = [
+    './',
     './index.html',
     './style.css',
 ]
