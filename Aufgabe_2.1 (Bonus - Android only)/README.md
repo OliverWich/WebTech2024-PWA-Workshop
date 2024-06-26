@@ -15,4 +15,6 @@ Darauf kann man in JS reagieren und selbst entscheiden, wann und wie die Install
 
 ## Ziel
 
-Nach dieser Aufgabe nutzt ihr das `beforeinstallprompt` Event um eine eigene Installations-UI zu erstellen.
+Nach dieser Aufgabe kann die App den Nutzer im eigenen UI auffordern die App zu installieren.
+
+> **Hinweis:** Die Installation über die Browser UI aus Aufgabe 2 ist natürlich weiterhin möglich.
