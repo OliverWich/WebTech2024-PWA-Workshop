@@ -6,6 +6,7 @@ const staticCache = "static-cache-v" + cacheVersion;
 
 const staticFilesToCache = [
     "./",
+    "./index.html",
     "./style.css"
 ];
 
