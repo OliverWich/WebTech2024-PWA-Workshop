@@ -7,7 +7,8 @@ const staticCache = "static-cache-v" + cacheVersion;
 const staticFilesToCache = [
     "./",
     "./index.html",
-    "./style.css"
+    "./style.css",
+    "./serviceWorker.js",
 ];
 
 self.addEventListener("install", event => {
